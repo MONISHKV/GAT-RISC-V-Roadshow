@@ -265,6 +265,9 @@ int main(void) {
 - **Documentation**: [CH32V003F4U6 Datasheet](link-to-datasheet)
 
 ---
+## workshop task
+<div align="center">
+  <img src="images/Screenshot 2025-01-06 155542.png" width="600"/>
 
 ## 📝 License
 
